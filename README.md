@@ -77,9 +77,7 @@ About me
 
 #### Tools:
 <p align="left">
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://logos-marcas.com/wp-content/uploads/2020/12/MATLAB-Logo.png" width="36" height="36" alt="MATLAB" />
-</a>
+
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/R.b26c8494c91cf18be0000dece526e196?rik=KBdiNYKUegXxmw&pid=ImgRaw&r=0" width="36" height="36" alt="Oracle VM VirtualBox" />
 </a>
@@ -98,8 +96,12 @@ About me
 <a href="https://www.sparxsystems.com/products/ea/" target="_blank" rel="noreferrer">
     <img src="https://media.codeweavers.com/pub/crossover/website/htmlimages/enterprise-architect-icon_1_1.png" width="36" height="36" alt="Enterprise Architect" />
 </a>
+
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://logos-marcas.com/wp-content/uploads/2020/12/MATLAB-Logo.png" width="46" height="36" alt="MATLAB" />
+</a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/Q/qt-logo-1631E0218A-seeklogo.com.png" width="36" height="36" alt="Qt Designer" />
+    <img src="https://seeklogo.com/images/Q/qt-logo-1631E0218A-seeklogo.com.png" width="36" height="26" alt="Qt Designer" />
 </a>
 </p>
 
