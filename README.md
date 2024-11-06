@@ -98,6 +98,9 @@ About me
 <a href="https://www.sparxsystems.com/products/ea/" target="_blank" rel="noreferrer">
     <img src="https://media.codeweavers.com/pub/crossover/website/htmlimages/enterprise-architect-icon_1_1.png" width="36" height="36" alt="Enterprise Architect" />
 </a>
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/Q/qt-logo-1631E0218A-seeklogo.com.png" width="36" height="36" alt="Qt Designer" />
+</a>
 </p>
 
 
